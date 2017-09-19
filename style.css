@@ -1,0 +1,19 @@
+body {
+	background-color: #ccffcc;
+}
+
+div.vihrea-div {
+	background-color: #80ff80;
+	margin-left: 200px;
+	color: green;
+}
+
+div.sininen-div {
+	height: 100px;
+	text-align: center;
+	background-image: linear-gradient(to bottom, green, #00cc00 50%, blue);
+}
+
+.margin-tyyli {
+	margin-top: 100px;
+}
